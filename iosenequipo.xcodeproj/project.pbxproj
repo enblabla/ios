@@ -218,6 +218,7 @@
 				CAE16A4E1B5797C500F99F4B /* ManuelViewController.swift in Sources */,
 				8B3CF0091B57965700CBB4A8 /* ViewController.swift in Sources */,
 				8B3CF0071B57965700CBB4A8 /* AppDelegate.swift in Sources */,
+				8B3CF0271B5797D500CBB4A8 /* KikeViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
