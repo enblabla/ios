@@ -13,7 +13,7 @@ class JavierViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
 
-        // Do any additional setup after loading the view.
+       //esto es una prueba , kike
     }
 
     override func didReceiveMemoryWarning() {
