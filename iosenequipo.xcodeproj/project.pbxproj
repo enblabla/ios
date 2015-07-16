@@ -14,6 +14,7 @@
 		8B3CF00E1B57965700CBB4A8 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8B3CF00D1B57965700CBB4A8 /* Images.xcassets */; };
 		8B3CF0111B57965700CBB4A8 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8B3CF00F1B57965700CBB4A8 /* LaunchScreen.xib */; };
 		8B3CF01D1B57965700CBB4A8 /* iosenequipoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B3CF01C1B57965700CBB4A8 /* iosenequipoTests.swift */; };
+		8B3CF0271B5797D500CBB4A8 /* KikeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B3CF0261B5797D500CBB4A8 /* KikeViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,7 @@
 		8B3CF0161B57965700CBB4A8 /* iosenequipoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = iosenequipoTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8B3CF01B1B57965700CBB4A8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8B3CF01C1B57965700CBB4A8 /* iosenequipoTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iosenequipoTests.swift; sourceTree = "<group>"; };
+		8B3CF0261B5797D500CBB4A8 /* KikeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = KikeViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
