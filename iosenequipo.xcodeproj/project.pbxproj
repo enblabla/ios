@@ -13,6 +13,7 @@
 		8B3CF00E1B57965700CBB4A8 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8B3CF00D1B57965700CBB4A8 /* Images.xcassets */; };
 		8B3CF0111B57965700CBB4A8 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8B3CF00F1B57965700CBB4A8 /* LaunchScreen.xib */; };
 		8B3CF01D1B57965700CBB4A8 /* iosenequipoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B3CF01C1B57965700CBB4A8 /* iosenequipoTests.swift */; };
+		CAE16A4E1B5797C500F99F4B /* ManuelViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CAE16A4D1B5797C500F99F4B /* ManuelViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		8B3CF0161B57965700CBB4A8 /* iosenequipoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = iosenequipoTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8B3CF01B1B57965700CBB4A8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8B3CF01C1B57965700CBB4A8 /* iosenequipoTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iosenequipoTests.swift; sourceTree = "<group>"; };
+		CAE16A4D1B5797C500F99F4B /* ManuelViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ManuelViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +85,7 @@
 				8B3CF00D1B57965700CBB4A8 /* Images.xcassets */,
 				8B3CF00F1B57965700CBB4A8 /* LaunchScreen.xib */,
 				8B3CF0041B57965700CBB4A8 /* Supporting Files */,
+				CAE16A4D1B5797C500F99F4B /* ManuelViewController.swift */,
 			);
 			path = iosenequipo;
 			sourceTree = "<group>";
@@ -212,6 +215,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CAE16A4E1B5797C500F99F4B /* ManuelViewController.swift in Sources */,
 				8B3CF0091B57965700CBB4A8 /* ViewController.swift in Sources */,
 				8B3CF0071B57965700CBB4A8 /* AppDelegate.swift in Sources */,
 			);
@@ -411,6 +415,7 @@
 				8B3CF0221B57965700CBB4A8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		8B3CF0231B57965700CBB4A8 /* Build configuration list for PBXNativeTarget "iosenequipoTests" */ = {
 			isa = XCConfigurationList;
@@ -419,6 +424,7 @@
 				8B3CF0251B57965700CBB4A8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
