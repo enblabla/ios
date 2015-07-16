@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6AF41CCB1B5797F000A79118 /* ViniciusViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AF41CCA1B5797F000A79118 /* ViniciusViewController.swift */; };
 		8B3CF0071B57965700CBB4A8 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B3CF0061B57965700CBB4A8 /* AppDelegate.swift */; };
 		8B3CF0091B57965700CBB4A8 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B3CF0081B57965700CBB4A8 /* ViewController.swift */; };
 		8B3CF00C1B57965700CBB4A8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8B3CF00A1B57965700CBB4A8 /* Main.storyboard */; };
@@ -27,6 +28,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		6AF41CCA1B5797F000A79118 /* ViniciusViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViniciusViewController.swift; sourceTree = "<group>"; };
 		8B3CF0011B57965700CBB4A8 /* iosenequipo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iosenequipo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8B3CF0051B57965700CBB4A8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8B3CF0061B57965700CBB4A8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -218,7 +220,7 @@
 				CAE16A4E1B5797C500F99F4B /* ManuelViewController.swift in Sources */,
 				8B3CF0091B57965700CBB4A8 /* ViewController.swift in Sources */,
 				8B3CF0071B57965700CBB4A8 /* AppDelegate.swift in Sources */,
-				8B3CF0271B5797D500CBB4A8 /* KikeViewController.swift in Sources */,
+				6AF41CCB1B5797F000A79118 /* ViniciusViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
