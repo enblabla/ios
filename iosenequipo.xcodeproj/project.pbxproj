@@ -14,6 +14,7 @@
 		8B3CF00E1B57965700CBB4A8 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8B3CF00D1B57965700CBB4A8 /* Images.xcassets */; };
 		8B3CF0111B57965700CBB4A8 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8B3CF00F1B57965700CBB4A8 /* LaunchScreen.xib */; };
 		8B3CF01D1B57965700CBB4A8 /* iosenequipoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B3CF01C1B57965700CBB4A8 /* iosenequipoTests.swift */; };
+		8B3CF02B1B57992700CBB4A8 /* KikeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B3CF02A1B57992700CBB4A8 /* KikeViewController.swift */; };
 		CAE16A4E1B5797C500F99F4B /* ManuelViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CAE16A4D1B5797C500F99F4B /* ManuelViewController.swift */; };
 /* End PBXBuildFile section */
 
@@ -39,6 +40,7 @@
 		8B3CF0161B57965700CBB4A8 /* iosenequipoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = iosenequipoTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8B3CF01B1B57965700CBB4A8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8B3CF01C1B57965700CBB4A8 /* iosenequipoTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iosenequipoTests.swift; sourceTree = "<group>"; };
+		8B3CF02A1B57992700CBB4A8 /* KikeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = KikeViewController.swift; path = ../KikeViewController.swift; sourceTree = "<group>"; };
 		CAE16A4D1B5797C500F99F4B /* ManuelViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ManuelViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -81,6 +83,7 @@
 		8B3CF0031B57965700CBB4A8 /* iosenequipo */ = {
 			isa = PBXGroup;
 			children = (
+				8B3CF02A1B57992700CBB4A8 /* KikeViewController.swift */,
 				8B3CF0061B57965700CBB4A8 /* AppDelegate.swift */,
 				8B3CF0081B57965700CBB4A8 /* ViewController.swift */,
 				8B3CF00A1B57965700CBB4A8 /* Main.storyboard */,
@@ -217,6 +220,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8B3CF02B1B57992700CBB4A8 /* KikeViewController.swift in Sources */,
 				CAE16A4E1B5797C500F99F4B /* ManuelViewController.swift in Sources */,
 				8B3CF0091B57965700CBB4A8 /* ViewController.swift in Sources */,
 				8B3CF0071B57965700CBB4A8 /* AppDelegate.swift in Sources */,
